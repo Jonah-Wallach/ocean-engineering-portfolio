@@ -34,13 +34,14 @@ I’m a junior studying Ocean Engineering with a Mathematics minor at URI. I’m
 **Tools / Methods:** Excel, Latex, and SolidWorks.
 
 **Files:**
-- `[folder/filename]`: [what it is, e.g. analysis script]
-- `[folder/filename]`: [e.g. final report PDF]
+- `Cylinder_DrawingFinalV3.SLDDRW`: Full Model Drawing
+- `Cylinder_ModelFinalV3.SLDPRT`: Full Model Assembly
+- `OCE205_Failure Mode Calculator.xlsx`: Failure Mode Calulator
+<!--
 - `[folder/filename]`: [e.g. raw data or figures]
+-->
+**How to run:** All files are downloadable
 
-**How to run:** [e.g. "Run `analysis.py`, requires numpy and matplotlib." Skip for papers.]
-
-![Figure]([path/to/image.png])
 
 ---
 <!--
